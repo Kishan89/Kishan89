@@ -3,7 +3,8 @@ I'm Kishan, a React Native & Frontend Developer currently pursuing B.Tech in ECE
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kishan_021003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kishan8957) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishan895737@gmail.com)[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-34A853?logo=vercel&logoColor=white)](https://kishan-eta.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kishan_021003) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kishan8957) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kishan895737@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-34A853?logo=vercel&logoColor=white)](https://kishan-eta.vercel.app/)
+
 
 
 
